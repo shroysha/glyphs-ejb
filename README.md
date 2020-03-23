@@ -1,5 +1,5 @@
 # glyphs-ejb
-> see code: [https://github.com/shroysha/shroysha.github.io/tree/master/glyphs/glyphs-ejb](https://github.com/shroysha/shroysha.github.io/tree/master/glyphs/glyphs-ejb)
+> see code: [https://github.com/shroysha/glyphs-ejb](https://github.com/shroysha/glyphs-ejb)
 
 ## Description
 A library for shared components of glyphs
